@@ -8,11 +8,11 @@ A borderless, seamless frosted acrylic theme for the Windows 11 Settings app fea
 ![Screenshot](screenshot.png)
 
 ## Key Highlights
-- **Full Expanded Sidebar**: Keeps navigation labels fully visible while seamlessly blending the sidebar into the content canvas[cite: 1, 4].
-- **Seamless Seam Removal**: Eliminates dividing borders and vertical seams between the navigation pane and the main window[cite: 1].
-- **Unified Frosted Acrylic**: Coordinates backdrop tinting and blur luminosity across the titlebar, sidebar, and content area[cite: 1].
-- **Border & Card Outline Removal**: Strips out card outlines and elevation strokes for a clean floating look[cite: 1].
-- **Enhanced Rounding**: Applies smooth corner radiuses across cards, search controls, and list items[cite: 1].
+- **Full Expanded Sidebar**: Keeps navigation labels fully visible while seamlessly blending the sidebar into the content canvas.
+- **Seamless Seam Removal**: Eliminates dividing borders and vertical seams between the navigation pane and the main window.
+- **Unified Frosted Acrylic**: Coordinates backdrop tinting and blur luminosity across the titlebar, sidebar, and content area.
+- **Border & Card Outline Removal**: Strips out card outlines and elevation strokes for a clean floating look.
+- **Enhanced Rounding**: Applies smooth corner radiuses across cards, search controls, and list items.
 
 ## Manual installation
 
