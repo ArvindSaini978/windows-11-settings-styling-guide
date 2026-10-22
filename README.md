@@ -68,6 +68,7 @@ Settings Styler mod. The following themes are available:
 | [Translucent Settings11](Themes/Translucent%20Settings11/README.md) | [![Blue](Themes/Translucent%20Settings11/screenshot-small.png)](Themes/Translucent%20Settings11/screenshot.png)
 | [WindowGlass](Themes/WindowGlass/README.md) | [![Blue](Themes/WindowGlass/screenshot-small.png)](Themes/WindowGlass/screenshot.png)
 | [OLED](Themes/OLED/README.md) | [![OLED](Themes/OLED/screenshot-small.png)](Themes/OLED/screenshot.png) |
+| [Translucent Seamless](Themes/Translucent%20Seamless/README.md) | [![Translucent Seamless](Themes/Translucent%20Seamless/screenshot-small.png)](Themes/Translucent%20Seamless/screenshot.png)
 
 ## General
 
