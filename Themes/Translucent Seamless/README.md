@@ -243,3 +243,5 @@ controlStyles:
     styles:
       - BorderThickness=0
       - BorderBrush:=<SolidColorBrush Color="#00000000"/>
+```
+</details>
